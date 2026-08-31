@@ -103,4 +103,4 @@ This one's a bit tricky — note that `Shape` is an interface (no private field)
 ---
  
 When ready, send your answers task by task and they'll be checked.
- 
+ It's really hard.
